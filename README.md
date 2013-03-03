@@ -3,6 +3,8 @@
 A little script to download and tag mp3s versions of songs from
 http://timtimebomb.com.
 
+**This is the first Python script I've ever written so it's probabably a hot mess.**
+
 ## Options
     -u, --url    The url of the song
 
