@@ -9,7 +9,6 @@ http://timtimebomb.com.
     -u, --url    The url of the song
 
 ## Dependencies
-- Readability Parser API https://www.readability.com/developers/api/parser
 - youtube-dl https://github.com/rg3/youtube-dl/
   - ffmpeg - brew install ffmpeg
 
@@ -23,8 +22,3 @@ http://timtimebomb.com.
     python-magic==0.4.3
     requests==1.1.0
     wsgiref==0.1.2
-
-## Readability API Token Setup
-- Get API keys https://www.readability.com/developers/api/parser
-- Create token.txt and paste the parser token in it
-- This sounds like a lot of work
